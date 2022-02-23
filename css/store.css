@@ -1,0 +1,113 @@
+.fondo{
+	background-color: #CDCED2;
+	height: 100%;
+}
+
+.loc{
+	font-family: univers;
+}
+
+.bambas{
+	width: 400px;
+	margin-left: 100px;
+	-webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+
+
+}
+
+.color{
+	background-color: #3398A4;
+}
+
+.categoria{
+	height: 300px;
+	background: rgb(2,0,36);
+background: linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(235,237,255,1) 0%, rgba(145,195,255,1) 8%, rgba(235,252,255,1) 45%, rgba(0,169,179,1) 97%);
+}
+
+.categoria2{
+	background: rgb(233,173,55);
+background: linear-gradient(0deg, rgba(233,173,55,1) 0%, rgba(252,207,151,1) 51%, rgba(241,176,48,1) 97%);
+}
+
+.categoria3{
+	background: rgb(245,23,23);
+background: linear-gradient(0deg, rgba(245,23,23,1) 0%, rgba(250,127,136,1) 51%, rgba(255,9,9,1) 97%);
+}
+
+.imagenes{
+	width: 230px;
+	height: 180px;
+
+}
+
+.imagenes2{
+	width: 570px;
+	height: 340px;
+
+}
+
+.valoracio{
+	border: none;
+	background-color: #D9D7D7;
+	font-family: unique;
+
+}
+
+.valoracio:hover{
+	color: yellow;
+	
+}
+
+.carrito{
+	border: 1px solid #D8D7D7;
+	position: absolute;
+	right: 80px;
+	width: 400px;
+}
+
+.imagen_carrito{
+	width: 100px;
+	height: 70px;
+	background-color: #F0F0F0;
+	display: inline-block;
+}
+
+table, tr{
+	border-top: 1px solid #D0CFCF;
+	border-bottom: 1px solid #D0CFCF;
+	text-align: center;
+
+}
+
+th{
+	text-align: center;
+	padding: 20px;
+}
+
+
+
+td{
+	padding: 10px;
+}
+
+table{
+
+	width: 900px;
+
+}
+
+.imagen_carrito2{
+	width: 200px;
+	height: 111px;
+	background-color: #F0F0F0;
+	display: inline-block;
+}
+
+.onda2{
+	width: 100%;
+	position: absolute;
+	top: 796px;
+	
+}
